@@ -59,5 +59,4 @@ cd server
 yarn start
 ```
 
-https://chat-app-prashant9569pals-projects.vercel.app/login
 Done! Now open localhost:3000 in your browser.
